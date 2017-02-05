@@ -1,0 +1,4 @@
+couchdb:
+  image: couchdb:latest
+  ports:
+    - "5984:5984"
